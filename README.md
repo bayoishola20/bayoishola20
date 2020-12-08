@@ -4,7 +4,7 @@ I enjoy building software and automating processes.
 
 ### Main Languages
 
-JavaScript, Python, R, Java (some of it)
+JavaScript, Python, R, Java (getting better)
 
 
 <!--
