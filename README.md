@@ -2,9 +2,13 @@
 
 I enjoy building software and automating processes.
 
-### Main Languages
+### :technologist: Languages
 
 JavaScript, Python, R, TyperScript, Java (getting better)
+
+### Database
+
+PostgreSQL, MongoDB
 
 
 <!--
