@@ -6,7 +6,7 @@ I enjoy building software and automating processes.
 
 JavaScript, Python, R, TyperScript, Java (getting better)
 
-### :man_technologist: Database
+### :thread: Database
 
 PostgreSQL, MongoDB
 
