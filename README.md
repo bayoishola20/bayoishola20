@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi ya! Salut! Servus! Hoi!  👋
+
+I enjoy building software and automating processes.
+
+### Main Languages
+
+JavaScript, Python, R, Java (some of it)
+
 
 <!--
 **bayoishola20/bayoishola20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
