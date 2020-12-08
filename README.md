@@ -2,7 +2,7 @@
 
 I enjoy building software and automating processes.
 
-### :technologist: Languages
+### :technologist: Scripting
 
 JavaScript, Python, R, TyperScript, Java (getting better)
 
