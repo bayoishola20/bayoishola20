@@ -20,9 +20,10 @@ PostgreSQL, MongoDB
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-&nbsp;
 
+<p align="right">
 <img src="https://komarev.com/ghpvc/?username=bayoishola20&style=flat-square"/>
+</p>
 
 <!--
 **bayoishola20/bayoishola20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
